@@ -2,7 +2,7 @@
 
 ## Beatz install guide
 
->Note there is no installer available currently. Please follow the following instuctions to use it::;dsabfidhbg
+>NOTE: there is no installer available currently. Please follow the following instuctions to use it::;dsabfidhbg
 
 1: Download and extract all the files.
 2: Navigate to Beatz > Beatz > bin > Debug > Beatz.exe
